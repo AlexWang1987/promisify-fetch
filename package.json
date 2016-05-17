@@ -1,6 +1,6 @@
 {
   "name": "promisify-fetch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The library is a wrapper for 'fetch' in promising way. It it commonly used for downloading files or get http content from the remote",
   "main": "index.js",
   "scripts": {
