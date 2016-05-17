@@ -1,0 +1,30 @@
+{
+  "name": "promisify-fetch",
+  "version": "1.0.0",
+  "description": "The library is a wrapper for 'fetch' in promising way. It it commonly used for downloading files or get http content from the remote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AlexWang1987/promisify-fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "ajax",
+    "http",
+    "request",
+    "promisify",
+    "fetch",
+    "download",
+    "http",
+    "https"
+  ],
+  "author": "AlexWang <1669499355@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexWang1987/promisify-fetch/issues"
+  },
+  "homepage": "https://github.com/AlexWang1987/promisify-fetch#readme"
+}
