@@ -1,10 +1,8 @@
 # promisify-fetch
 The library is a wrapper for 'fetch' in promising way. It it commonly used for downloading files or get http content from the remote.
 
-# Inspired by fetch [fetch](https://www.npmjs.com/package/fetch)
-
 # Usage
-```
+```javascript
 var fetch = require('promisify-fetch');
 
 fetch
@@ -20,7 +18,7 @@ fetch
 # API
 This is a primising wrapper for 'fetch' package. more specific options, please refer to [fetch](https://www.npmjs.com/package/fetch)
 
-```
+```javascript
 /**
  * fetch url content from remote
  * @param  {string} url      url
@@ -30,3 +28,4 @@ This is a primising wrapper for 'fetch' package. more specific options, please r
 
 fetchURL(url[,options])
 ```
+Inspired by [fetch](https://www.npmjs.com/package/fetch)
